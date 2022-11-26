@@ -27,7 +27,7 @@ const Section1 = () => {
             <Span>Build your online store with</Span>
             <Box color="primary.main" lineHeight={1.2}>
               {" "}
-              Bazaar
+              MoShoppa
             </Box>
           </H1>
 
